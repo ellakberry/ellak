@@ -1,0 +1,44 @@
+These are the MD5 message digests for the files in this directory.
+If you want to test your files, use 'md5sum' and compare the values to
+the ones listed here.
+
+To test all these files, use this command:
+
+md5sum -c CHECKSUMS.md5 | less
+
+'md5sum' can be found in the GNU coreutils package on ftp.gnu.org in
+/pub/gnu, or at any GNU mirror site.
+
+MD5 message digest                Filename
+c57a25d038e1f3d4c76a24cb86f2a108  ./ChangeLog.rss
+1afe7c184033fbee5e95104629d74e5b  ./ChangeLog.txt
+11683a6f50daedae28d60ad8ce613d34  ./ChangeLog.txt.gz
+f026151293cbdc7e62866598df3e91b0  ./FILELIST.TXT
+0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
+ca40f87f21e8377fa797ffc36f222003  ./MANIFEST.bz2
+ab5ff0b57dbdf9c8dd24c9546ac68a64  ./PACKAGES.TXT
+14d38286dba59c63b0d0b7f32a77abcd  ./PACKAGES.TXT.gz
+a223f73e2e20b08b45107fe8fe45eeda  ./pkg/blas/blas-20110419-arm-1ellak.lst
+47de240f73524826563944221866b15a  ./pkg/blas/blas-20110419-arm-1ellak.meta
+a3f8ee8ec1d0b0337c558e15d82cc975  ./pkg/blas/blas-20110419-arm-1ellak.tgz
+d782c658383037dc7354da2dc477cc84  ./pkg/blas/blas-20110419-arm-1ellak.tgz.asc
+1e1ca4e77b35c349e194f01bbcfbcae4  ./pkg/blas/blas-20110419-arm-1ellak.tgz.md5
+3d05ebd82948046b2191126454c3e00a  ./pkg/blas/blas-20110419-arm-1ellak.txt
+82548576af11e96450a9448a2e1804fd  ./pkg/lapack/lapack-3.4.1-arm-1ellak.lst
+37e1b47636871119a26f5dfc40fec991  ./pkg/lapack/lapack-3.4.1-arm-1ellak.meta
+ebc372f21a22260f02913001aec77ee1  ./pkg/lapack/lapack-3.4.1-arm-1ellak.tgz
+9b9b8153e46d7f22ca6b9e35d1d5322a  ./pkg/lapack/lapack-3.4.1-arm-1ellak.tgz.asc
+b7abc8672e0c549333736554fb05684e  ./pkg/lapack/lapack-3.4.1-arm-1ellak.tgz.md5
+fafee19ca207858179bc10fbc856bbaa  ./pkg/lapack/lapack-3.4.1-arm-1ellak.txt
+f4a89f04853fd7bcd1c1ce362deee6f1  ./pkg/octave/octave-3.6.4-arm-1ellak.lst
+78648372bce53313fc91157161bfaaa5  ./pkg/octave/octave-3.6.4-arm-1ellak.meta
+3bb8b6ed8ea5354180e5e3ea8d5e8f3a  ./pkg/octave/octave-3.6.4-arm-1ellak.tgz
+41dae5f26129a7029f35b8e6c21f04f3  ./pkg/octave/octave-3.6.4-arm-1ellak.tgz.asc
+d0265b2cda8c4cf6273d5d053d0534fe  ./pkg/octave/octave-3.6.4-arm-1ellak.tgz.md5
+1b1e6e148529039aee5f32ab3cbf4292  ./pkg/octave/octave-3.6.4-arm-1ellak.txt
+d69d90fcf909850806d6968855ea6f2e  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.lst
+53cc3dc107c18f3df04e684ee8007540  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.meta
+5b466319f7339b232fa9e94205e09604  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.tgz
+0faf8ccd978e590b0bf13c717a9a144f  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.tgz.asc
+e3b1c517283991d2bb625c15fac60042  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.tgz.md5
+f095caa68567f1d15065bca9a9f2c07b  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.txt

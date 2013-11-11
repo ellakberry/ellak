@@ -1,0 +1,88 @@
+
+PACKAGE NAME:  blas-20110419-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/blas
+PACKAGE SIZE (compressed):  268 K
+PACKAGE SIZE (uncompressed):  760 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+blas: blas (Basic Linear Algebra Subprograms)
+blas: 
+blas: The BLAS (Basic Linear Algebra Subprograms) are routines that provide
+blas: standard building blocks for performing basic vector and matrix 
+blas: operations.  The Level 1 BLAS perform scalar, vector, and vector-vector
+blas: operations, the Level 2 BLAS perform matrix-vector operations, and the 
+blas: Level 3 BLAS perform matrix-matrix operations. Because the BLAS are 
+blas: efficient, portable, and widely available, they are commonly used in 
+blas: the development of high quality linear algebra software.
+blas: Note: This package contains the reference *unoptimized* BLAS library.
+blas:
+
+
+PACKAGE NAME:  lapack-3.4.1-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/lapack
+PACKAGE SIZE (compressed):  4176 K
+PACKAGE SIZE (uncompressed):  10930 K
+PACKAGE REQUIRED:  blas
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+lapack: LAPACK (linear algebra routines)
+lapack:
+lapack: LAPACK provides routines for solving systems of simultaneous linear
+lapack: equations, least-squares solutions of linear systems of equations,
+lapack: eigenvalue problems, and singular value problems. The associated matrix
+lapack: factorizations (LU, Cholesky, QR, SVD, Schur, generalized Schur) are
+lapack: also provided, as are related computations such as reordering of the
+lapack: Schur factorizations and estimating condition numbers. Dense and banded
+lapack: matrices are handled, but not general sparse matrices. In all areas,
+lapack: similar functionality is provided for real and complex matrices, in
+lapack: both single and double precision.
+
+
+PACKAGE NAME:  octave-3.6.4-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/octave
+PACKAGE SIZE (compressed):  11328 K
+PACKAGE SIZE (uncompressed):  40660 K
+PACKAGE REQUIRED:  lapack
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+octave: GNU Octave (Matlab clone)
+octave:
+octave: GNU Octave is a high-level language, primarily intended for numerical
+octave: computations.  It provides a convenient command line interface for
+octave: solving linear and nonlinear problems numerically, and for performing
+octave: other numerical experiments using a language that is mostly compatible
+octave: with Matlab.  It may also be used as a batch-oriented language.
+octave:
+octave: Homepage: http://www.gnu.org/software/octave/
+octave:
+octave:
+
+
+PACKAGE NAME:  slapt-get-0.10.2p-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/slapget
+PACKAGE SIZE (compressed):  276 K
+PACKAGE SIZE (uncompressed):  930 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+slapt-get: slapt-get (an apt-like front-end to Slackware's pkgtools)
+slapt-get: 
+slapt-get: slapt-get is an apt like system for Slackware package management.
+slapt-get:  * See /usr/doc/slapt-get-*/ for complete documentation. 
+slapt-get:  * You will also want to customize /etc/slapt-get/slapt-getrc,
+slapt-get:    using a local mirror.  www.slackware.com may be very busy.
+slapt-get:  * Support:
+slapt-get:    http://software.jaos.org/cgi-bin/mailman/listinfo/slapt-get-user
+slapt-get:  * Please translate
+slapt-get:    http://software.jaos.org/git/slapt-get/plain/po/slapt-get.pot
+slapt-get:    then send to slapt-get-devel@software.jaos.org
+

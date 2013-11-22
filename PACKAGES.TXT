@@ -1,4 +1,26 @@
 
+PACKAGE NAME:  antiprism-0.22-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/antiprism
+PACKAGE SIZE (compressed):  4988 K
+PACKAGE SIZE (uncompressed):  10290 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+antiprism: antiprism (set of polyhedra programs)
+antiprism:
+antiprism: Is a set of programs for generating, manipulating, transforming and
+antiprism: visualising polyhedra.
+antiprism:
+antiprism: May be used with Geomview also.
+antiprism:
+antiprism: Antiprism home page: http://www.antiprism.com
+antiprism:
+antiprism:
+antiprism:
+
+
 PACKAGE NAME:  blas-20110419-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/blas

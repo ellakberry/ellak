@@ -10,14 +10,20 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-748348dc42a7ebdde7bedb801d1339e8  ./ChangeLog.rss
-fcc12d4363c9bf7fca7f9d2272fa57a2  ./ChangeLog.txt
-5ab2bf7e6987bc9f9b247196b108d06c  ./ChangeLog.txt.gz
-c0d26e88621f0d84ef2476d2c1978c82  ./FILELIST.TXT
+6f8a3af6af5db114dccfb9a6dc970d32  ./ChangeLog.rss
+23659c53dbf988449cae4e7db4198e8a  ./ChangeLog.txt
+585427365d4b1b4a0af93a806cc8db08  ./ChangeLog.txt.gz
+6f84b19b2a62fae3a0de2d6f65b6757e  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-06c9854ac33bdb6ed3ee6efd8f299e8a  ./MANIFEST.bz2
-675486f0cdf46bfe5021e38014161c99  ./PACKAGES.TXT
-5a56d302f0565551c89b2465f0113164  ./PACKAGES.TXT.gz
+934eb4b0b638b10b21c9c3c35858ce18  ./MANIFEST.bz2
+c13740d66d30e643319b8c31d040f9a4  ./PACKAGES.TXT
+921ab20fedcc84aebebdfe6be4d8850b  ./PACKAGES.TXT.gz
+080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
+befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
+46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
+f6471f54ac336daa884c77b3edeec760  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz.asc
+06244d34309b2dd356162ff634f8873a  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz.md5
+a26bc575424d7e3c8acb6618abf62bb2  ./pkg/antiprism/antiprism-0.22-arm-1ellak.txt
 a223f73e2e20b08b45107fe8fe45eeda  ./pkg/blas/blas-20110419-arm-1ellak.lst
 47de240f73524826563944221866b15a  ./pkg/blas/blas-20110419-arm-1ellak.meta
 a3f8ee8ec1d0b0337c558e15d82cc975  ./pkg/blas/blas-20110419-arm-1ellak.tgz

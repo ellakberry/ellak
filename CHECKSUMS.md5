@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-2f1df99e83093da28be511bc541755d4  ./ChangeLog.rss
-cfbceeaa5600eab39f423dabdd3f3654  ./ChangeLog.txt
-073b6f8b590639ded5f3310dd358012f  ./ChangeLog.txt.gz
-fe92699e497e7f06fae7761e1654683c  ./FILELIST.TXT
+dd6a41c8fdb2bf3bfc9e90d96b14aaba  ./ChangeLog.rss
+1248c71cbe9b162e4c270c78ef67c2ea  ./ChangeLog.txt
+dbb26f7acfdedf3809ee997a1ce5b29c  ./ChangeLog.txt.gz
+e0c344465fe22060c5003732fc27cfb5  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
 06c9854ac33bdb6ed3ee6efd8f299e8a  ./MANIFEST.bz2
-c1c041a3a19b0316ce5fc96f41055b33  ./PACKAGES.TXT
-9c0a618d63c61f50d5e0cbc6bb521f99  ./PACKAGES.TXT.gz
+c8d45fa4833d42b365e358cde33ad261  ./PACKAGES.TXT
+6d4a99e5255522719371da781a720838  ./PACKAGES.TXT.gz
 a223f73e2e20b08b45107fe8fe45eeda  ./pkg/blas/blas-20110419-arm-1ellak.lst
 47de240f73524826563944221866b15a  ./pkg/blas/blas-20110419-arm-1ellak.meta
 a3f8ee8ec1d0b0337c558e15d82cc975  ./pkg/blas/blas-20110419-arm-1ellak.tgz

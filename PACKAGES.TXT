@@ -21,6 +21,28 @@ antiprism:
 antiprism:
 
 
+PACKAGE NAME:  artha-1.0.3-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/artha
+PACKAGE SIZE (compressed):  100 K
+PACKAGE SIZE (uncompressed):  240 K
+PACKAGE REQUIRED:  WordNet
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+artha: artha - the open thesaurus
+artha:
+artha: Artha is a free cross-platform English thesaurus that works
+artha: completely off-line and is based on WordNet.
+artha:
+artha: http://artha.sourceforge.net/
+artha:
+artha:
+artha:
+artha:
+artha:
+
+
 PACKAGE NAME:  blas-20110419-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/blas

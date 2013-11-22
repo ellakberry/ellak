@@ -10,20 +10,26 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-6f8a3af6af5db114dccfb9a6dc970d32  ./ChangeLog.rss
-23659c53dbf988449cae4e7db4198e8a  ./ChangeLog.txt
-585427365d4b1b4a0af93a806cc8db08  ./ChangeLog.txt.gz
-6f84b19b2a62fae3a0de2d6f65b6757e  ./FILELIST.TXT
+bddff5dc78e245d396d5fa284b809c7a  ./ChangeLog.rss
+980b1adbde2aa1d060ad517095ea75df  ./ChangeLog.txt
+6b038c9410768ec0422a1fe7cb6730c4  ./ChangeLog.txt.gz
+d1d9ac324b70998c709af25da7ca0b14  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-934eb4b0b638b10b21c9c3c35858ce18  ./MANIFEST.bz2
-c13740d66d30e643319b8c31d040f9a4  ./PACKAGES.TXT
-921ab20fedcc84aebebdfe6be4d8850b  ./PACKAGES.TXT.gz
+d5c85d48a7142dca7250244affaed7aa  ./MANIFEST.bz2
+00831a59e4f75ffaa6639b2d13ebac41  ./PACKAGES.TXT
+08f2952a6c43de9db396345d3d37a1db  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
 f6471f54ac336daa884c77b3edeec760  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz.asc
 06244d34309b2dd356162ff634f8873a  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz.md5
 a26bc575424d7e3c8acb6618abf62bb2  ./pkg/antiprism/antiprism-0.22-arm-1ellak.txt
+d28e4440e79a96530b13f132439191fe  ./pkg/artha/artha-1.0.3-arm-1ellak.lst
+c7bd54b0fb121b1976fdec7cefb63801  ./pkg/artha/artha-1.0.3-arm-1ellak.meta
+c2ff3f899fb6dc50bb4c24e12a8600ea  ./pkg/artha/artha-1.0.3-arm-1ellak.tgz
+fd85fcd79a10e9ce34166590f5e180e0  ./pkg/artha/artha-1.0.3-arm-1ellak.tgz.asc
+a2b439e81fae8c44256162ec4f170680  ./pkg/artha/artha-1.0.3-arm-1ellak.tgz.md5
+2443d8623a341aa266f2042222d01efb  ./pkg/artha/artha-1.0.3-arm-1ellak.txt
 a223f73e2e20b08b45107fe8fe45eeda  ./pkg/blas/blas-20110419-arm-1ellak.lst
 47de240f73524826563944221866b15a  ./pkg/blas/blas-20110419-arm-1ellak.meta
 a3f8ee8ec1d0b0337c558e15d82cc975  ./pkg/blas/blas-20110419-arm-1ellak.tgz

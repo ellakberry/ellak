@@ -65,6 +65,28 @@ blas: Note: This package contains the reference *unoptimized* BLAS library.
 blas:
 
 
+PACKAGE NAME:  gcompris-12.05-arm-2ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/gcompris
+PACKAGE SIZE (compressed):  149600 K
+PACKAGE SIZE (uncompressed):  201120 K
+PACKAGE REQUIRED:  gnet
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+gcompris: GCompris (an educational software suite for children ages 2 to 10)
+gcompris:      
+gcompris: GCompris is an educational software suite comprising of numerous 
+gcompris: activities for children aged 2 to 10. Some of the activities are game 
+gcompris: orientated, but nonetheless still educational.  Currently GCompris 
+gcompris: offers in excess of 80 activities and more are being developed.
+gcompris: GCompris currently is translated in more than 40 languages.
+gcompris: GCompris runs fine on the PC 233MHz with 64MB of memory and 150MB of 
+gcompris: disk space. Gcompris REQUIRES gnet & pysqlite2 @ slackbuilds.org .
+gcompris:  
+gcompris: Homepage: http://gcompris.net/
+
+
 PACKAGE NAME:  gnet-2.0.8-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/gnet

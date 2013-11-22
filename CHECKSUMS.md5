@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-bddff5dc78e245d396d5fa284b809c7a  ./ChangeLog.rss
-980b1adbde2aa1d060ad517095ea75df  ./ChangeLog.txt
-6b038c9410768ec0422a1fe7cb6730c4  ./ChangeLog.txt.gz
-d1d9ac324b70998c709af25da7ca0b14  ./FILELIST.TXT
+5519fbdc18acb286417c1f682ac8f00e  ./ChangeLog.rss
+16eca42bdd604bf3a785f4858ada6dd9  ./ChangeLog.txt
+4f3145fa67ed2a0bd90402b1060f68a3  ./ChangeLog.txt.gz
+db2bff9f4ba5a659c91f6e9540ed172f  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-d5c85d48a7142dca7250244affaed7aa  ./MANIFEST.bz2
-00831a59e4f75ffaa6639b2d13ebac41  ./PACKAGES.TXT
-08f2952a6c43de9db396345d3d37a1db  ./PACKAGES.TXT.gz
+55ec57e16d1e1026fc6b76eb993cc30a  ./MANIFEST.bz2
+18df74f1d842fd79815cf06db29f582d  ./PACKAGES.TXT
+21622a298734c4d34f494b1fe9f2e54d  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -36,6 +36,12 @@ a3f8ee8ec1d0b0337c558e15d82cc975  ./pkg/blas/blas-20110419-arm-1ellak.tgz
 92a87e67357f5d62657cdc709b6b2e7c  ./pkg/blas/blas-20110419-arm-1ellak.tgz.asc
 1e1ca4e77b35c349e194f01bbcfbcae4  ./pkg/blas/blas-20110419-arm-1ellak.tgz.md5
 3d05ebd82948046b2191126454c3e00a  ./pkg/blas/blas-20110419-arm-1ellak.txt
+515e4dbc9eb30b9739a70a41b0eddaf4  ./pkg/gcompris/gcompris-12.05-arm-2ellak.lst
+e4d91d13e7828999751ee6ce4b515977  ./pkg/gcompris/gcompris-12.05-arm-2ellak.meta
+6b2608cc7aac601ccd2f9255eac02ec9  ./pkg/gcompris/gcompris-12.05-arm-2ellak.tgz
+606b233516c4bde19d502b562139759d  ./pkg/gcompris/gcompris-12.05-arm-2ellak.tgz.asc
+f9bdf22d3cb027fc9f27f6692fa1562a  ./pkg/gcompris/gcompris-12.05-arm-2ellak.tgz.md5
+7528511c3553bb51e42ae06fd55c0c35  ./pkg/gcompris/gcompris-12.05-arm-2ellak.txt
 d027d9d792d5a7cb7ad9455cf1c7adff  ./pkg/gnet/gnet-2.0.8-arm-1ellak.lst
 5c39eb2c8f7ba893c95aff7792e72ebc  ./pkg/gnet/gnet-2.0.8-arm-1ellak.meta
 4ce5e087e46e5bda1af198deb675b4e7  ./pkg/gnet/gnet-2.0.8-arm-1ellak.tgz

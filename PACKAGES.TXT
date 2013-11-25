@@ -218,6 +218,28 @@ octave:
 octave:
 
 
+PACKAGE NAME:  openbabel-2.3.0-arm-2ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/openbabel
+PACKAGE SIZE (compressed):  3784 K
+PACKAGE SIZE (uncompressed):  10580 K
+PACKAGE REQUIRED:  jdk
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+openbabel: openbabel (Open Babel 3D Library)
+openbabel:
+openbabel: Open Babel is a project designed to pick up where Babel left off,
+openbabel: as a cross-platform program and library designed to interconvert 
+openbabel: between many file formats used in molecular modeling, computational 
+openbabel: chemistry, and many related areas.    
+openbabel:
+openbabel: Homepage: http://openbabel.sourceforge.net/wiki/Main_Page
+openbabel:
+openbabel:
+openbabel:
+
+
 PACKAGE NAME:  slapt-get-0.10.2p-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/slapget

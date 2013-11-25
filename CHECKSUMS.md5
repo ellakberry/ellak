@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-1c342a49cf49f1003ec45f9a31235cc7  ./ChangeLog.rss
-d2d028c308dbd6710c3653375e8cad4f  ./ChangeLog.txt
-390ca7cb67ca705105df71eb8808c50a  ./ChangeLog.txt.gz
-233edaae9f8e2d94c696386c1ce974a9  ./FILELIST.TXT
+fd345268ff53e2ee12ef201455d9da0f  ./ChangeLog.rss
+77e1de7dc1eeb2bc38d5770ad72a22c9  ./ChangeLog.txt
+83acfd2080102125d9176179574b3329  ./ChangeLog.txt.gz
+5b31449a59d48cba7790e5bb89a026fd  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-266b8e92ef08019aaa3b988e4200d8c4  ./MANIFEST.bz2
-be3e0ea5076a0f5fbf2689bb560c191e  ./PACKAGES.TXT
-2a7062494c9a04ddef8ef79ee1e64fbf  ./PACKAGES.TXT.gz
+66071c485bb2d993fba2f3df963202c1  ./MANIFEST.bz2
+8a585e12a54782dd6b19d46065eca736  ./PACKAGES.TXT
+fc8700390c609e4e38912f06fd910692  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -89,6 +89,12 @@ f4a89f04853fd7bcd1c1ce362deee6f1  ./pkg/octave/octave-3.6.4-arm-1ellak.lst
 c93efa3be5cb757f96b2be312b5409a1  ./pkg/octave/octave-3.6.4-arm-1ellak.tgz.asc
 d0265b2cda8c4cf6273d5d053d0534fe  ./pkg/octave/octave-3.6.4-arm-1ellak.tgz.md5
 1b1e6e148529039aee5f32ab3cbf4292  ./pkg/octave/octave-3.6.4-arm-1ellak.txt
+1311c9ed81e802c09a448a3ff414706f  ./pkg/openbabel/openbabel-2.3.0-arm-2ellak.lst
+478e8ee5a2d96c4cbe1971dc2230e87b  ./pkg/openbabel/openbabel-2.3.0-arm-2ellak.meta
+3b10734e3b93dd842188db6a57ea264d  ./pkg/openbabel/openbabel-2.3.0-arm-2ellak.tgz
+76dcebdbf51caf076d47db49ec5706e0  ./pkg/openbabel/openbabel-2.3.0-arm-2ellak.tgz.asc
+a6cca6e93000f7916291c7f4b66ebe9f  ./pkg/openbabel/openbabel-2.3.0-arm-2ellak.tgz.md5
+28e42039b8402d95188eae72cc2e6663  ./pkg/openbabel/openbabel-2.3.0-arm-2ellak.txt
 d69d90fcf909850806d6968855ea6f2e  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.lst
 53cc3dc107c18f3df04e684ee8007540  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.meta
 5b466319f7339b232fa9e94205e09604  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.tgz

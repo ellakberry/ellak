@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-0bee76bca7cadb430dfc537f3bee60e1  ./ChangeLog.rss
-71f3d35e44a7bf89a13bab2decf15a55  ./ChangeLog.txt
-de7ecfd183330ed169082595e8a24ee6  ./ChangeLog.txt.gz
-540d2dc328ae73fe23f00c5e3bcf3177  ./FILELIST.TXT
+98d7a7b699a89f7866cff33071509a44  ./ChangeLog.rss
+2dea868e7b127aa26af3f94e2a7e09aa  ./ChangeLog.txt
+d79a37c4f76cf1fc14f24d7c27c81bb7  ./ChangeLog.txt.gz
+b6f88133748309c4d8d7f6855d53bcc3  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-de6a2e2768f3087327d1970a91c9dfc8  ./MANIFEST.bz2
-8686ce3d6e05803e5b3a5dd9081f0727  ./PACKAGES.TXT
-3795f478759d80c84c4593fa2cec26a1  ./PACKAGES.TXT.gz
+6483a5c143cf27e4f28d63e1d96a262a  ./MANIFEST.bz2
+db6f4557ac8fb11b5e8d5e8157cb7556  ./PACKAGES.TXT
+e237e23d6fcd9ff16338012c0369233e  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -125,6 +125,12 @@ c5e984bb1e6ff340be6186a96593e29e  ./pkg/openvas-securityassistant/openvas-securi
 786c4f81addce64245eff1ed5a4e9214  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.tgz.asc
 f766e64edf9eb3f8436b84557a8bedc5  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.tgz.md5
 9cb0c4036a39d33d2ec2d736268ca96a  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.txt
+19673883f6adac7a4458f1459bca887a  ./pkg/openvas-setup/openvas-setup-1.0.2-arm-1ellak.lst
+6be9b6e4e40b12a76bf344902d7ac044  ./pkg/openvas-setup/openvas-setup-1.0.2-arm-1ellak.meta
+605e901d9b218804d57dfc0e62ea4ace  ./pkg/openvas-setup/openvas-setup-1.0.2-arm-1ellak.tgz
+8fefa165ce5b988a52892954093980d3  ./pkg/openvas-setup/openvas-setup-1.0.2-arm-1ellak.tgz.asc
+80e0ba519245f000cb85c04697784f17  ./pkg/openvas-setup/openvas-setup-1.0.2-arm-1ellak.tgz.md5
+a4abd33215cc0aabce36df56689b8376  ./pkg/openvas-setup/openvas-setup-1.0.2-arm-1ellak.txt
 c0c3e5ac27b01d5a77c73ecbd3b74768  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.lst
 b7f171107e0db8ecf98a96f8282e1315  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.meta
 80bc6cc30fbaaca526fd176771c492cb  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.tgz

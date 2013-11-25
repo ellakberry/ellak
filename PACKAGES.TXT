@@ -334,6 +334,18 @@ openvas-administrator:For more information, please refer to the OpenVAS website 
 openvas-administrator:http://www.openvas.org/.
 
 
+PACKAGE NAME:  openvas-setup-1.0.2-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/openvas-setup
+PACKAGE SIZE (compressed):  12 K
+PACKAGE SIZE (uncompressed):  60 K
+PACKAGE REQUIRED:  openvas-libraries,openvas-scanner,openvas-manager,openvas-securityassistant
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+openvas-setup: openvas-setup is a setup script for openvas
+
+
 PACKAGE NAME:  openvas-libraries-6.0.1-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/openvas

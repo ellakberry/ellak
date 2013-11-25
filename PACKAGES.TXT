@@ -240,6 +240,20 @@ openbabel:
 openbabel:
 
 
+PACKAGE NAME:  openvas-libraries-6.0.1-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/openvas
+PACKAGE SIZE (compressed):  3008 K
+PACKAGE SIZE (uncompressed):  7580 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+openvas:The Open Vulnerability Assessment System (OpenVAS) is a framework of 
+openvas:several services and tools offering a comprehensive and powerful 
+openvas:vulnerability scanning and vulnerability management solution. 
+
+
 PACKAGE NAME:  slapt-get-0.10.2p-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/slapget

@@ -314,6 +314,26 @@ openvas-scanner:Please see the file COPYING for the license information.
 openvas-scanner:
 
 
+PACKAGE NAME:  openvas-securityassistant-4.0.2-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/openvas-securityassistant
+PACKAGE SIZE (compressed):  684 K
+PACKAGE SIZE (uncompressed):  2450 K
+PACKAGE REQUIRED:  openvas-libraries,openvas-scanner,openvas-manager,libmicrohttpd
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+openvas-administrator:The OpenVAS Manager is a layer between the OpenVAS Scanner and various
+openvas-administrator:This is the administrator module for the Open Vulnerability Assessment
+openvas-administrator:System (OpenVAS). This module can for example manage OpenVAS users
+openvas-administrator:and the Feed service for a OpenVAS installation. The administator
+openvas-administrator:can be used as a command line utility as well as a service using the
+openvas-administrator:XML-based and SSL-secured OpenVAS Adminstration Protocol (OAP).
+openvas-administrator:
+openvas-administrator:For more information, please refer to the OpenVAS website available at
+openvas-administrator:http://www.openvas.org/.
+
+
 PACKAGE NAME:  openvas-libraries-6.0.1-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/openvas

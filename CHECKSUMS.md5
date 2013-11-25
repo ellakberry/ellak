@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-3b1c45b54c8b770e93b80b55c8ed128f  ./ChangeLog.rss
-839a079c5df8114066dd88e06c7b7820  ./ChangeLog.txt
-89c5be78c4e402ef1880648ace7ce317  ./ChangeLog.txt.gz
-07dd83735f7e4e1cfd8aa9c4624a213a  ./FILELIST.TXT
+0bee76bca7cadb430dfc537f3bee60e1  ./ChangeLog.rss
+71f3d35e44a7bf89a13bab2decf15a55  ./ChangeLog.txt
+de7ecfd183330ed169082595e8a24ee6  ./ChangeLog.txt.gz
+540d2dc328ae73fe23f00c5e3bcf3177  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-b2125ede0a08c4cb9458a8b5c63caf27  ./MANIFEST.bz2
-9f986787f3ae9981c16c7df838c605ba  ./PACKAGES.TXT
-3ec418d786ebcbc37b8478c763c795c7  ./PACKAGES.TXT.gz
+de6a2e2768f3087327d1970a91c9dfc8  ./MANIFEST.bz2
+8686ce3d6e05803e5b3a5dd9081f0727  ./PACKAGES.TXT
+3795f478759d80c84c4593fa2cec26a1  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -119,6 +119,12 @@ dbaef514cf693639bd907289ca24c93c  ./pkg/openvas-scanner/openvas-scanner-3.4.0-ar
 0f35fdf30efbf3b55ac7f5615dfa4fe9  ./pkg/openvas-scanner/openvas-scanner-3.4.0-arm-1ellak.tgz.asc
 f6145faef0d7f1e75a062bc40d8f30e9  ./pkg/openvas-scanner/openvas-scanner-3.4.0-arm-1ellak.tgz.md5
 30985fad9faea8dc5899891c02822f20  ./pkg/openvas-scanner/openvas-scanner-3.4.0-arm-1ellak.txt
+c5e984bb1e6ff340be6186a96593e29e  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.lst
+0992cee08e6a86b4201bdf0812b3122f  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.meta
+1cc228a00e50e8327dbce06fc9314e6c  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.tgz
+786c4f81addce64245eff1ed5a4e9214  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.tgz.asc
+f766e64edf9eb3f8436b84557a8bedc5  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.tgz.md5
+9cb0c4036a39d33d2ec2d736268ca96a  ./pkg/openvas-securityassistant/openvas-securityassistant-4.0.2-arm-1ellak.txt
 c0c3e5ac27b01d5a77c73ecbd3b74768  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.lst
 b7f171107e0db8ecf98a96f8282e1315  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.meta
 80bc6cc30fbaaca526fd176771c492cb  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.tgz

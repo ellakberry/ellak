@@ -131,6 +131,28 @@ haproxy: Homepage: http://haproxy.1wt.eu/
 haproxy:
 
 
+PACKAGE NAME:  jdk-7u45-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/jdk
+PACKAGE SIZE (compressed):  69184 K
+PACKAGE SIZE (uncompressed):  158150 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+jdk: jdk (Java(TM) 2 Platform Standard Edition Development Kit)
+jdk:
+jdk: The Java 2 SDK software includes tools for developing, testing, and
+jdk: running programs written in the Java programming language.  This
+jdk: package contains everything you need to run Java(TM).
+jdk:
+jdk: For additional information, refer to this web page:
+jdk:   http://java.com/
+jdk:
+jdk:
+jdk:
+
+
 PACKAGE NAME:  lapack-3.4.1-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/lapack

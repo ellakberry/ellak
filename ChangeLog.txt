@@ -1,4 +1,8 @@
 +--------------------------+
+Mon Nov 25 17:49:06 UTC 2013
+ellakberry.gr : add/modify openvas-cli-1.2.0-arm-1ellak.tgz
+
++--------------------------+
 Mon Nov 25 17:48:00 UTC 2013
 ellakberry.gr : add/modify openvas-administrator-1.3.2-arm-1ellak.tgz
 

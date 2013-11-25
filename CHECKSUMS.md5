@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-b5511e5a8b5334a69ef19101fae7ff0f  ./ChangeLog.rss
-8596aa7fa548141c48acb14e70d6e0b2  ./ChangeLog.txt
-7bd977ed9aa4b293938ec5dd5667b6e8  ./ChangeLog.txt.gz
-69354b34470f25b1213c84c105e334a3  ./FILELIST.TXT
+04a507593d2a07eedbea47e24db525b2  ./ChangeLog.rss
+d7c53a7e879e5855b59374d103ea0447  ./ChangeLog.txt
+aaf0b23250412fd006d8fb031fd73865  ./ChangeLog.txt.gz
+deec114427b7a43b36c6796346637948  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-61111037768b15bb591a93ee86acf5ae  ./MANIFEST.bz2
-15c516ede2c48ccd51c9dd71d159829d  ./PACKAGES.TXT
-ed96e34fa993d6aa0862dee7dda480a9  ./PACKAGES.TXT.gz
+266b8e92ef08019aaa3b988e4200d8c4  ./MANIFEST.bz2
+2f28efa8133f90caef5970b2ac90dcc6  ./PACKAGES.TXT
+606dcd4634993f2b4aa05329dbb5c39c  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -77,6 +77,12 @@ cfb48a956d816bcf94caa0eb14a8e3b3  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1
 aaf900845a0c80e3a1a21b766f84d20c  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.tgz.asc
 8c937447456fa337e07219216e68c46a  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.tgz.md5
 78693a2701e08c9203d6f6a18e4d63b1  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.txt
+908f590bab0f98ecca5098c1fc5402b3  ./pkg/nsis/nsis-2.46-arm-3ellak.lst
+ca96d04afb109145454edbeafc51d8b0  ./pkg/nsis/nsis-2.46-arm-3ellak.meta
+e7bbff14d614629a925e053c0bc890ea  ./pkg/nsis/nsis-2.46-arm-3ellak.tgz
+0457bda4cc2a0ec7c3fed90f534274d3  ./pkg/nsis/nsis-2.46-arm-3ellak.tgz.asc
+1418547fc5e4f1086b28d2a915f10be1  ./pkg/nsis/nsis-2.46-arm-3ellak.tgz.md5
+1222b5c779ff5e4d3866ac973c712c5a  ./pkg/nsis/nsis-2.46-arm-3ellak.txt
 f4a89f04853fd7bcd1c1ce362deee6f1  ./pkg/octave/octave-3.6.4-arm-1ellak.lst
 78648372bce53313fc91157161bfaaa5  ./pkg/octave/octave-3.6.4-arm-1ellak.meta
 3bb8b6ed8ea5354180e5e3ea8d5e8f3a  ./pkg/octave/octave-3.6.4-arm-1ellak.tgz

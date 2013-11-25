@@ -175,6 +175,27 @@ libmicrohttpd:
 libmicrohttpd:
 
 
+PACKAGE NAME:  nsis-2.46-arm-3ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/nsis
+PACKAGE SIZE (compressed):  2524 K
+PACKAGE SIZE (uncompressed):  7200 K
+PACKAGE REQUIRED:  scons
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+nsis: NSIS (Nullsoft Scriptable Install System)
+nsis:
+nsis: NSIS (Nullsoft Scriptable Install System) is a professional open 
+nsis: source system to create Windows installers. It is designed to be as 
+nsis: small and flexible as possible and is therefore very suitable for 
+nsis: internet distribution. 
+nsis:
+nsis: Homepage: http://nsis.sourceforge.net/
+nsis:
+nsis:
+
+
 PACKAGE NAME:  octave-3.6.4-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/octave

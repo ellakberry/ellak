@@ -382,6 +382,28 @@ qtoctave:
 qtoctave:
 
 
+PACKAGE NAME:  scons-2.2.0-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/scons
+PACKAGE SIZE (compressed):  1036 K
+PACKAGE SIZE (uncompressed):  3730 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+scons: SCons (Open Source software construction tool)
+scons:
+scons: SCons is an Open Source software construction tool--that is,
+scons: a next-generation build tool.  Think of SCons as an improved,
+scons: cross-platform substitute for the classic Make utility with
+scons: integrated functionality similar to autoconf/automake and
+scons: compiler caches such as ccache.  In short, SCons is an easier,
+scons: more reliable and faster way to build software.
+scons:
+scons:
+scons:
+
+
 PACKAGE NAME:  slapt-get-0.10.2p-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/slapget

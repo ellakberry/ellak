@@ -1,4 +1,8 @@
 +--------------------------+
+Mon Nov 25 15:35:50 UTC 2013
+ellakberry.gr : add/modify gcompris-12.05-arm-2ellak.tgz
+
++--------------------------+
 Mon Nov 25 15:30:33 UTC 2013
 ellakberry.gr : add/modify blas-20110419-arm-1ellak.tgz
 

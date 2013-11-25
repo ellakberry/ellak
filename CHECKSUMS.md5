@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-1fb631209975989be9baf5b9afb6c53f  ./ChangeLog.rss
-b98f430c08b26e7577262806ced2c797  ./ChangeLog.txt
-04d837da5a7ec0a2bfc0d7296464f38d  ./ChangeLog.txt.gz
-1eecbf5c81bb707a85415e37614d86dd  ./FILELIST.TXT
+4366343a1dd237b861140723c1e6c6f2  ./ChangeLog.rss
+113151ada736fd0af28dc27bcfa48786  ./ChangeLog.txt
+4403343cf275ff2e78e5904027fd9f35  ./ChangeLog.txt.gz
+80d5ffc2a7044aa36138f820432ac9e4  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-38e836b1bf98cb8cbdb182ba955c9a41  ./MANIFEST.bz2
-1a51f0d22f70661fe1e2816f6546f283  ./PACKAGES.TXT
-272198e05c4a75ff1c95225d2e3d4330  ./PACKAGES.TXT.gz
+296c3ae9a4bab890dac27cb930bd902d  ./MANIFEST.bz2
+153a47cf155fbfc6e37f655c9eee35c5  ./PACKAGES.TXT
+af56bdcfbe61430e1303f9bc3f5faef5  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -54,12 +54,7 @@ e6153252f085b28f2e61874e8a16f490  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.tgz
 2ef8dbac5797046188b578e064a4be0e  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.tgz.asc
 da9969e253966491d391389c4e46dfe9  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.tgz.md5
 aa2af830954e7be6edab7fbedb1d6a7b  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.txt
-e72621cc5d2429249256afb4ebed26a1  ./pkg/jdk/jdk-7u45-arm-1ellak.lst
-dd607c845112da8e6408164f20ce266f  ./pkg/jdk/jdk-7u45-arm-1ellak.meta
-b645697a39f2bf84b53985870b55e2bc  ./pkg/jdk/jdk-7u45-arm-1ellak.tgz
-e207ffc87a8f6bb2790fc25e878641e5  ./pkg/jdk/jdk-7u45-arm-1ellak.tgz.asc
-e03ad03588baf0dc61811b5f64467891  ./pkg/jdk/jdk-7u45-arm-1ellak.tgz.md5
-30b6fb9a1a9bb02ce0a4d2bdca4920d6  ./pkg/jdk/jdk-7u45-arm-1ellak.txt
+efcd4a26adbeef79366f51d5ec13a2ea  ./pkg/jdk/jdk-7u45-arm-2ellak.tar.gz
 82548576af11e96450a9448a2e1804fd  ./pkg/lapack/lapack-3.4.1-arm-1ellak.lst
 37e1b47636871119a26f5dfc40fec991  ./pkg/lapack/lapack-3.4.1-arm-1ellak.meta
 ebc372f21a22260f02913001aec77ee1  ./pkg/lapack/lapack-3.4.1-arm-1ellak.tgz

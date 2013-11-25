@@ -1,4 +1,8 @@
 +--------------------------+
+Mon Nov 25 17:53:17 UTC 2013
+ellakberry.gr : add/modify openvas-scanner-3.4.0-arm-1ellak.tgz
+
++--------------------------+
 Mon Nov 25 17:50:14 UTC 2013
 ellakberry.gr : add/modify openvas-manager-4.0.4-arm-1ellak.tgz
 

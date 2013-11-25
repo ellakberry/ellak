@@ -293,6 +293,27 @@ openvas-manager:communication between OpenVAS Manager and its clients is done vi
 openvas-manager:XML-based OpenVAS Management Protocol (OMP).
 
 
+PACKAGE NAME:  openvas-scanner-3.4.0-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/openvas-scanner
+PACKAGE SIZE (compressed):  228 K
+PACKAGE SIZE (uncompressed):  580 K
+PACKAGE REQUIRED:  openvas-libraries,openvas-setup
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+openvas-scanner:openvas-scanner
+openvas-scanner:
+openvas-scanner:This is the scanner module for the Open Vulnerability Assessment 
+openvas-scanner:System (OpenVAS).
+openvas-scanner:
+openvas-scanner:For more information, please refer to the OpenVAS website available at
+openvas-scanner:http://www.openvas.org/.
+openvas-scanner:
+openvas-scanner:Please see the file COPYING for the license information.
+openvas-scanner:
+
+
 PACKAGE NAME:  openvas-libraries-6.0.1-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/openvas

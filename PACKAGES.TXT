@@ -425,3 +425,25 @@ slapt-get:  * Please translate
 slapt-get:    http://software.jaos.org/git/slapt-get/plain/po/slapt-get.pot
 slapt-get:    then send to slapt-get-devel@software.jaos.org
 
+
+PACKAGE NAME:  WordNet-3.0-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/wordnet
+PACKAGE SIZE (compressed):  11196 K
+PACKAGE SIZE (uncompressed):  37880 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+WordNet: WordNet (large lexical database of English)
+WordNet:
+WordNet: WordNet is a large lexical database of English, developed under the
+WordNet: direction of George A. Miller. Nouns, verbs, adjectives and adverbs
+WordNet: are grouped into sets of cognitive synonyms (synsets), each 
+WordNet: expressing a distinct concept. Synsets are interlinked by means of
+WordNet: conceptual-semantic and lexical relations. The resulting network
+WordNet: of meaningfully related words and concepts can be navigated with the
+WordNet: browser. WordNet's structure makes it a useful tool for computational
+WordNet: linguistics and natural language processing.
+WordNet:
+

@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-23c778ee44cda2f9f70ea3997858d19d  ./ChangeLog.rss
-96234e23878a2b1251eb6346dba4ed4c  ./ChangeLog.txt
-e241c5ae19f8759eb8ac3ea9d09781b2  ./ChangeLog.txt.gz
-01236b3f77c3f83b4d0712836a86869d  ./FILELIST.TXT
+64b066b29f05a3508847a8d1f678ac2d  ./ChangeLog.rss
+59c23825fc8c88fdfc614e68e338ebf2  ./ChangeLog.txt
+5da8eb954405f4f90c869e5a67424e69  ./ChangeLog.txt.gz
+10e7cdf637118be8dc5b0bba1565cfa4  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-0389ce060542076bb633cbe3f40e6867  ./MANIFEST.bz2
-30f7eb73e2f73d8e89a4b4c64f3b4c82  ./PACKAGES.TXT
-e4b615485a5f7187503192b400b7a9d3  ./PACKAGES.TXT.gz
+3afeed65f5e2f6c9b0a81ea542abc184  ./MANIFEST.bz2
+557ad07a8ad30d36c9d44e672ae593cc  ./PACKAGES.TXT
+f653437a2fcc7e3458250d9d42c910ee  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -155,3 +155,9 @@ d69d90fcf909850806d6968855ea6f2e  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.lst
 573bef6ba596a9b00b6886e02bc1194e  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.tgz.asc
 e3b1c517283991d2bb625c15fac60042  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.tgz.md5
 f095caa68567f1d15065bca9a9f2c07b  ./pkg/slapget/slapt-get-0.10.2p-arm-1ellak.txt
+031e183b74a22a3d0cb8ebe86b4fd38c  ./pkg/wordnet/WordNet-3.0-arm-1ellak.lst
+aaee0de4f7295d7c12a137bf3ca03379  ./pkg/wordnet/WordNet-3.0-arm-1ellak.meta
+1675c7f9fa856b030736472305e4befe  ./pkg/wordnet/WordNet-3.0-arm-1ellak.tgz
+99864f605d9d4f061a3a04eb01431628  ./pkg/wordnet/WordNet-3.0-arm-1ellak.tgz.asc
+d41c189b155aa0f7148bd6b6dc0e11f1  ./pkg/wordnet/WordNet-3.0-arm-1ellak.tgz.md5
+9887d1077483903d4f3478a1dadaebbc  ./pkg/wordnet/WordNet-3.0-arm-1ellak.txt

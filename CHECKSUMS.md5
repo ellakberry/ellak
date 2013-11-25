@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-d1502a4a28e5e01a23a88309599e919f  ./ChangeLog.rss
-0b059410a7a0422305f58add98219789  ./ChangeLog.txt
-c18a380c595ee74c538761c00d07f9fa  ./ChangeLog.txt.gz
-4f8db5bb4cf01a2a92379f145be41079  ./FILELIST.TXT
+b5511e5a8b5334a69ef19101fae7ff0f  ./ChangeLog.rss
+8596aa7fa548141c48acb14e70d6e0b2  ./ChangeLog.txt
+7bd977ed9aa4b293938ec5dd5667b6e8  ./ChangeLog.txt.gz
+69354b34470f25b1213c84c105e334a3  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-296c3ae9a4bab890dac27cb930bd902d  ./MANIFEST.bz2
-8efcba87634de90bd53c9e4316904636  ./PACKAGES.TXT
-5b15659fe727c9416e4da96698219af9  ./PACKAGES.TXT.gz
+61111037768b15bb591a93ee86acf5ae  ./MANIFEST.bz2
+15c516ede2c48ccd51c9dd71d159829d  ./PACKAGES.TXT
+ed96e34fa993d6aa0862dee7dda480a9  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -54,13 +54,29 @@ e6153252f085b28f2e61874e8a16f490  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.tgz
 2ef8dbac5797046188b578e064a4be0e  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.tgz.asc
 da9969e253966491d391389c4e46dfe9  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.tgz.md5
 aa2af830954e7be6edab7fbedb1d6a7b  ./pkg/haproxy/haproxy-1.3.15.7-arm-1ellak.txt
+51e8a6d8bdfcfb6773791cbc7c8e3e66  ./pkg/jdk/README
 efcd4a26adbeef79366f51d5ec13a2ea  ./pkg/jdk/jdk-7u45-arm-2ellak.tar.gz
+522604c520dc440b78a528e13565d0a2  ./pkg/jdk/jdk/README
+efff49e6ff4095fb5d6cf85300efa963  ./pkg/jdk/jdk/jdk.SlackBuild
+56fa341d013c1d4f918afc8ee10ee305  ./pkg/jdk/jdk/jdk.SlackBuild.build
+d567eb88912d9fdbbdec46c5b9618975  ./pkg/jdk/jdk/jdk.info
+d567eb88912d9fdbbdec46c5b9618975  ./pkg/jdk/jdk/jdk.info.build
+39e31fbb9fac3fb1c335019ab7fcec0b  ./pkg/jdk/jdk/jdk.info.ellak
+cd0837476796241b3745d2dced23b9be  ./pkg/jdk/jdk/profile.d/jdk.csh
+aa8fbfc83d70bacfa298d696b90f0efd  ./pkg/jdk/jdk/profile.d/jdk.sh
+d393fe10c1c71c07bdc0c43fbe312265  ./pkg/jdk/jdk/slack-desc
 82548576af11e96450a9448a2e1804fd  ./pkg/lapack/lapack-3.4.1-arm-1ellak.lst
 37e1b47636871119a26f5dfc40fec991  ./pkg/lapack/lapack-3.4.1-arm-1ellak.meta
 801a3acab6bf24234bed5c91cc5499d7  ./pkg/lapack/lapack-3.4.1-arm-1ellak.tgz
 d5e6fc3649875b515927a23ae99fe15f  ./pkg/lapack/lapack-3.4.1-arm-1ellak.tgz.asc
 b7abc8672e0c549333736554fb05684e  ./pkg/lapack/lapack-3.4.1-arm-1ellak.tgz.md5
 fafee19ca207858179bc10fbc856bbaa  ./pkg/lapack/lapack-3.4.1-arm-1ellak.txt
+f416d296732464a89e7018f85dd1e0ff  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.lst
+fe90d78fd59297f0c60a1e089ce81457  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.meta
+cfb48a956d816bcf94caa0eb14a8e3b3  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.tgz
+aaf900845a0c80e3a1a21b766f84d20c  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.tgz.asc
+8c937447456fa337e07219216e68c46a  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.tgz.md5
+78693a2701e08c9203d6f6a18e4d63b1  ./pkg/libmicrohttpd/libmicrohttpd-0.9.25-arm-1ellak.txt
 f4a89f04853fd7bcd1c1ce362deee6f1  ./pkg/octave/octave-3.6.4-arm-1ellak.lst
 78648372bce53313fc91157161bfaaa5  ./pkg/octave/octave-3.6.4-arm-1ellak.meta
 3bb8b6ed8ea5354180e5e3ea8d5e8f3a  ./pkg/octave/octave-3.6.4-arm-1ellak.tgz

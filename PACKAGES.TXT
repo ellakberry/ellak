@@ -153,6 +153,28 @@ lapack: similar functionality is provided for real and complex matrices, in
 lapack: both single and double precision.
 
 
+PACKAGE NAME:  libmicrohttpd-0.9.25-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/libmicrohttpd
+PACKAGE SIZE (compressed):  180 K
+PACKAGE SIZE (uncompressed):  340 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+libmicrohttpd: libmicrohttpd (HTTP server C library)
+libmicrohttpd:
+libmicrohttpd: GNU libmicrohttpd is a small C library that is supposed to make it
+libmicrohttpd: easy to run an HTTP server as part of another application.
+libmicrohttpd:
+libmicrohttpd: GNU libmicrohttpd is free software and part of the GNU project.
+libmicrohttpd:
+libmicrohttpd:
+libmicrohttpd:
+libmicrohttpd:
+libmicrohttpd:
+
+
 PACKAGE NAME:  octave-3.6.4-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/octave

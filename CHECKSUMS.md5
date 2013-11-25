@@ -10,14 +10,14 @@ md5sum -c CHECKSUMS.md5 | less
 /pub/gnu, or at any GNU mirror site.
 
 MD5 message digest                Filename
-3a6745359c0af87f613c1f29d1796f07  ./ChangeLog.rss
-a4864b30501709d945548dd6a623d988  ./ChangeLog.txt
-b3e471a09ea88b452aa7c970869aab20  ./ChangeLog.txt.gz
-3f70ef5d4cf1afd993efe404763d9e96  ./FILELIST.TXT
+6fdc3fceeb6b333805b167ab52c9d55e  ./ChangeLog.rss
+bad17e921ac3fa9f906a983db026da76  ./ChangeLog.txt
+b7da65445746e47c98655086f957f053  ./ChangeLog.txt.gz
+0d5002bcc42e588a5581feddf270a5b6  ./FILELIST.TXT
 0325d0d592ec9f48f9b9fc7a10f559b1  ./GPG-KEY
-3bd8297aa5e3e1f5f21bb71612678a15  ./MANIFEST.bz2
-7c9a2df77c64eb2cc44bee22fc100762  ./PACKAGES.TXT
-1ff74004cdbc602b9b2f18789e21ae95  ./PACKAGES.TXT.gz
+3cbaf18f3f7e635080e8fe500b9e4e5c  ./MANIFEST.bz2
+89836d81f4bcb62c59fb5a337f725ea6  ./PACKAGES.TXT
+d5e428e8f1706a8e3ea87fb750a349e7  ./PACKAGES.TXT.gz
 080cae1c84debe7c725a1c3db72dd782  ./pkg/antiprism/antiprism-0.22-arm-1ellak.lst
 befb0b666395a411411f0ed789dd94b3  ./pkg/antiprism/antiprism-0.22-arm-1ellak.meta
 46b8bfc06eddd409ce9db481b27bed8f  ./pkg/antiprism/antiprism-0.22-arm-1ellak.tgz
@@ -107,6 +107,12 @@ e522b58123d1c95f57ee78d05589e776  ./pkg/openvas-cli/openvas-cli-1.2.0-arm-1ellak
 51f0df6b4b8fc64887bada2a234b65dc  ./pkg/openvas-cli/openvas-cli-1.2.0-arm-1ellak.tgz.asc
 24cc2f8a0b3d3d6ced7fbb75d42831c6  ./pkg/openvas-cli/openvas-cli-1.2.0-arm-1ellak.tgz.md5
 7256d1c1bcd814c5b009a25ac2c36c02  ./pkg/openvas-cli/openvas-cli-1.2.0-arm-1ellak.txt
+3535d874bf7d01496960ec6ebbc7323f  ./pkg/openvas-manager/openvas-manager-4.0.4-arm-1ellak.lst
+d70c568809eab56950a95403b94bae01  ./pkg/openvas-manager/openvas-manager-4.0.4-arm-1ellak.meta
+9cad8b0ad5cbecc45baf0d130a12ddb8  ./pkg/openvas-manager/openvas-manager-4.0.4-arm-1ellak.tgz
+b3f80bb05906a50ac57368f0703f0b9f  ./pkg/openvas-manager/openvas-manager-4.0.4-arm-1ellak.tgz.asc
+5bbe0d34074797a050ce75e1a0629750  ./pkg/openvas-manager/openvas-manager-4.0.4-arm-1ellak.tgz.md5
+2fa7d0569c96a111e05a88435545bf43  ./pkg/openvas-manager/openvas-manager-4.0.4-arm-1ellak.txt
 c0c3e5ac27b01d5a77c73ecbd3b74768  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.lst
 b7f171107e0db8ecf98a96f8282e1315  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.meta
 80bc6cc30fbaaca526fd176771c492cb  ./pkg/openvas/openvas-libraries-6.0.1-arm-1ellak.tgz

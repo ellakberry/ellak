@@ -274,6 +274,25 @@ openvas-cli:to handle with the OpenVAS services via the respective
 openvas-cli:protocols.
 
 
+PACKAGE NAME:  openvas-manager-4.0.4-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/openvas-manager
+PACKAGE SIZE (compressed):  1216 K
+PACKAGE SIZE (uncompressed):  4690 K
+PACKAGE REQUIRED:  openvas-libraries,openvas-scanner
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+openvas-manager:The OpenVAS Manager is a layer between the OpenVAS Scanner and various
+openvas-manager:client applications such as the web client GSA (Greenbone Security
+openvas-manager:Assistant), the command line client omp (openvas-cli) and the classic
+openvas-manager:application GSD (Greenbone Security Desktop). Among other features, it
+openvas-manager:adds server-side storage of scan results and it removes the need for a
+openvas-manager:scan client to keep the connection open until the scan finishes.  All
+openvas-manager:communication between OpenVAS Manager and its clients is done via the
+openvas-manager:XML-based OpenVAS Management Protocol (OMP).
+
+
 PACKAGE NAME:  openvas-libraries-6.0.1-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/openvas

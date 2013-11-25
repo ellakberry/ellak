@@ -360,6 +360,28 @@ openvas:several services and tools offering a comprehensive and powerful
 openvas:vulnerability scanning and vulnerability management solution. 
 
 
+PACKAGE NAME:  qtoctave-0.8.1-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/qtoctave
+PACKAGE SIZE (compressed):  1436 K
+PACKAGE SIZE (uncompressed):  5780 K
+PACKAGE REQUIRED:  octave
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+qtoctave: QtOctave (a qt-based gui for Octave)
+qtoctave:
+qtoctave: QtOctave is a graphical user interface for gnu octave, which is an
+qtoctave: open source program alternative to Matlab.  With QtOctave you can do
+qtoctave: perform computationally intensive mathematical tasks that would take
+qtoctave: much longer to code in C or C++ or practically any other modern
+qtoctave: computer language.  It is especailly good at matrix and vector
+qtoctave: operations.  The graphical capabilities are very advanced.  It is
+qtoctave: used heavily in engineering, and is a tool well worth learning.
+qtoctave:
+qtoctave:
+
+
 PACKAGE NAME:  slapt-get-0.10.2p-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/slapget

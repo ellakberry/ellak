@@ -447,3 +447,25 @@ WordNet: browser. WordNet's structure makes it a useful tool for computational
 WordNet: linguistics and natural language processing.
 WordNet:
 
+
+PACKAGE NAME:  zeromq-2.2.0-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/zeromq
+PACKAGE SIZE (compressed):  448 K
+PACKAGE SIZE (uncompressed):  1760 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+zeromq: zeromq (lightweight messaging kernel library)
+zeromq:
+zeromq: Zeromq lightweight messaging kernel is a library which extends the
+zeromq: standard socket interfaces with features traditionally provided by
+zeromq: specialised messaging middleware products. 0MQ sockets provide an
+zeromq: abstraction of asynchronous message queues, multiple messaging
+zeromq: patterns message filtering (subscriptions), seamless access to
+zeromq: multiple transport protocols and more.
+zeromq:
+zeromq:
+zeromq:
+

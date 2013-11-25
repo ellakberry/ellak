@@ -1,4 +1,8 @@
 +--------------------------+
+Mon Nov 25 18:25:43 UTC 2013
+ellakberry.gr : add/modify zeromq-2.2.0-arm-1ellak.tgz
+
++--------------------------+
 Mon Nov 25 18:01:39 UTC 2013
 ellakberry.gr : add/modify WordNet-3.0-arm-1ellak.tgz
 

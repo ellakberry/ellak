@@ -109,6 +109,28 @@ gnet:
 gnet:
 
 
+PACKAGE NAME:  haproxy-1.3.15.7-arm-1ellak.tgz
+PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
+PACKAGE LOCATION:  ./pkg/haproxy
+PACKAGE SIZE (compressed):  312 K
+PACKAGE SIZE (uncompressed):  960 K
+PACKAGE REQUIRED:  
+PACKAGE CONFLICTS:  
+PACKAGE SUGGESTS:  
+PACKAGE DESCRIPTION:
+haproxy: haproxy (a free, very fast and reliable proxy)
+haproxy:
+haproxy: HAProxy is a free, very fast and reliable solution offering high
+haproxy: availability, load balancing, and proxying for TCP and HTTP-based
+haproxy: applications. It is particularly suited for web sites crawling under
+haproxy: very high loads while needing persistence or Layer7 processing.
+haproxy:
+haproxy:
+haproxy:  
+haproxy: Homepage: http://haproxy.1wt.eu/
+haproxy:
+
+
 PACKAGE NAME:  lapack-3.4.1-arm-1ellak.tgz
 PACKAGE MIRROR: http://repos.os.cs.teiath.gr/pub/ellakberry/14.0//
 PACKAGE LOCATION:  ./pkg/lapack
